@@ -1,9 +1,8 @@
 {
   "name": "passwd-linux",
   "version": "2.0.0",
-
-  "dependencies" : {
-    "sha512crypt-node" : "*"
+  "dependencies": {
+    "sha512crypt-node": "*"
   },
   "description": "Node.js module for checking and changing Linux user and password",
   "main": "passwd-linux.js",
